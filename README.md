@@ -56,5 +56,6 @@ home-data-for-ml-course/
 
 **Author:**  
 Dorian Boiré
+
 **License:**  
 MIT
